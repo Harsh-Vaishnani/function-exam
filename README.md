@@ -1,5 +1,5 @@
 # function-exam
-![Alt text](fun-4.png)
-![Alt text](function-1.png)
-![Alt text](function-1-1.png)
-![Alt text](function-1-2.png)
+![Alt text](function-1-6.png)
+![Alt text](function-1-7.png)
+![Alt text](function-1-8.png)
+![Alt text](<EXAM-2 (3).png>)
