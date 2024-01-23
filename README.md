@@ -1,5 +1,6 @@
 # function-exam
 
 ![Alt text](funtion-2.png)
-![Alt text](image.png)
-![Alt text](image-1.png)
+
+![Alt text](<function-1 - Copy (2).png>)
+![Alt text](fun-4.png)
